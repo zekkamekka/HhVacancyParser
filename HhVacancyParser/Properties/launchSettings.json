@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "DotNet developer": {
+      "commandName": "Project",
+      "commandLineArgs": "--text \".NET developer\""
+    },
+    "Python developer": {
+      "commandName": "Project",
+      "commandLineArgs": "--text \"Python developer\""
+    }
+  }
+}
